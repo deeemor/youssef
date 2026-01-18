@@ -1,0 +1,59 @@
+{
+  "Metadata": {
+    "title": "Youssef Slimani | Full Stack Entwickler",
+    "description": "Full Stack Entwickler spezialisiert auf Next.js, TypeScript und moderne Webplattformen."
+  },
+  "Navigation": {
+    "home": "Home",
+    "experience": "Erfahrung",
+    "about": "Über Mich",
+    "contact": "Kontakt"
+  },
+  "About": {
+    "sectionTitle": "Über Mich"
+  },
+  "Hero": {
+    "available": "Verfügbar für Projekte",
+    "line1": "FULL STACK",
+    "rotating": ["ENGINEER", "DESIGNER", "CREATOR"],
+    "description": "Ich entwickle Next.js + TypeScript Plattformen mit Strapi, Supabase und Automatisierungspipelines — fokussiert auf Performance, Skalierbarkeit und saubere UI-Systeme.",
+    "viewProjects": "Projekte ansehen",
+    "contactMe": "Kontaktieren",
+    "openToWork": "Offen für Angebote"
+  },
+  "Project": {
+    "backToProjects": "Zurück zu Projekten",
+    "viewLive": "Zur Website",
+    "whatIBuilt": "Was ich gebaut habe",
+    "upNext": "Nächstes Projekt",
+    "projectNotFound": "Projekt nicht gefunden",
+    "returnHome": "Zurück zur Übersicht"
+  },
+  "Contact": {
+    "sectionTitle": "Kontakt aufnehmen",
+    "titleLine1": "Haben Sie eine Idee?",
+    "titleLine2": "Lassen Sie es uns bauen.",
+    "description": "Ich stehe derzeit für Freelance-Projekte zur Verfügung und bin offen für Vollzeitstellen.",
+    "directEmail": "Direkte E-Mail",
+    "responseTime": "Antwortzeit",
+    "responseTimeDesc": "Normalerweise innerhalb von 24 Stunden",
+    "writeEmail": "E-Mail schreiben",
+    "successTitle": "Nachricht gesendet!",
+    "successDesc": "Ich werde mich so schnell wie möglich bei Ihnen melden.",
+    "sendAnother": "Weitere Nachricht senden",
+    "nameLabel": "Ihr Name",
+    "namePlaceholder": "Max Mustermann",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "max@beispiel.de",
+    "projectTypeLabel": "Projekttyp",
+    "projectTypePlaceholder": "Kategorie wählen",
+    "projectTypeWeb": "Webentwicklung",
+    "projectTypeDesign": "UI/UX Design",
+    "projectTypeConsulting": "Beratung",
+    "projectTypeOther": "Sonstiges",
+    "messageLabel": "Ihre Nachricht",
+    "messagePlaceholder": "Erzählen Sie mir von Ihrem Projekt...",
+    "submitButton": "Nachricht senden",
+    "submitting": "Sende Nachricht..."
+  }
+}

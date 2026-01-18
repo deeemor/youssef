@@ -1,0 +1,59 @@
+{
+  "Metadata": {
+    "title": "Youssef Slimani | Full Stack Developer",
+    "description": "Full Stack Developer specializing in Next.js, TypeScript, and modern web platforms."
+  },
+  "Navigation": {
+    "home": "Home",
+    "experience": "Experience",
+    "about": "About Me",
+    "contact": "Contact"
+  },
+  "About": {
+    "sectionTitle": "About The Developer"
+  },
+  "Hero": {
+    "available": "Available for projects",
+    "line1": "FULL STACK",
+    "rotating": ["ENGINEER", "DESIGNER", "CREATOR"],
+    "description": "I build Next.js + TypeScript platforms with Strapi, Supabase and automation pipelines — focused on performance, scalability and clean UI systems.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me",
+    "openToWork": "Open to Work"
+  },
+  "Project": {
+    "backToProjects": "Back to Projects",
+    "viewLive": "View Live Site",
+    "whatIBuilt": "What I Built",
+    "upNext": "Up Next",
+    "projectNotFound": "Project Not Found",
+    "returnHome": "Return to Projects"
+  },
+  "Contact": {
+    "sectionTitle": "Get in Touch",
+    "titleLine1": "Have an idea?",
+    "titleLine2": "Let's build it.",
+    "description": "I'm currently available for freelance projects and open to full-time opportunities.",
+    "directEmail": "Direct Email",
+    "responseTime": "Response Time",
+    "responseTimeDesc": "Usually within 24 hours",
+    "writeEmail": "Write an Email",
+    "successTitle": "Message Sent!",
+    "successDesc": "I'll get back to you as soon as possible.",
+    "sendAnother": "Send another message",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "John Doe",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "projectTypeLabel": "Project Type",
+    "projectTypePlaceholder": "Select a category",
+    "projectTypeWeb": "Web Development",
+    "projectTypeDesign": "UI/UX Design",
+    "projectTypeConsulting": "Consulting",
+    "projectTypeOther": "Other",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "submitButton": "Send Message",
+    "submitting": "Sending message..."
+  }
+}
