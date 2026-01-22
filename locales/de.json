@@ -9,6 +9,85 @@
     "about": "Über Mich",
     "contact": "Kontakt"
   },
+  "Experience": {
+    "jobs": [
+      {
+        "company": "Grau Grundsitz GmbH",
+        "role": "Full-Stack Developer",
+        "dateRange": "12/2025 – Aktuell",
+        "location": "Münster",
+        "outcomes": [
+          "Entwicklung und Wartung moderner Immobilien-Websites mit starkem Fokus auf Leistung, Skalierbarkeit und Wartbarkeit.",
+          "Aufbau kundenspezifischer CMS-basierter Lösungen für Content-Management und interne Workflows.",
+          "Implementierung von Automatisierungen zur Optimierung von Geschäftsprozessen und Reduzierung manueller Arbeit.",
+          "Arbeit über Frontend und Backend hinweg, um saubere, produktionsreife Systeme zu liefern.",
+          "Enge Zusammenarbeit mit Stakeholdern zur Übersetzung von Geschäftsanforderungen in technische Lösungen."
+        ],
+        "tech": ["Next.js", "TypeScript", "Tailwind CSS", "CMS Systems", "Automation", "APIs"]
+      },
+      {
+        "company": "LIFA Innovative Lichtsysteme GmbH",
+        "role": "Senior Full-Stack Developer",
+        "dateRange": "2025 – Aktuell",
+        "location": "Hybrid",
+        "outcomes": [
+          "Umbau einer veralteten WordPress-B2B-Website in eine moderne, skalierbare Plattform.",
+          "Entwurf eines strukturierten Produktsystems mit schneller Filterung und verbesserter Suche.",
+          "Integration eines hybriden AI-Support-Chatbots mit Benachrichtigungen und menschlicher Übergabe.",
+          "Fokus auf Performance, SEO und langfristige Wartbarkeit in der Produktion."
+        ],
+        "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Headless CMS", "AI Integrations"]
+      },
+      {
+        "company": "morphe* Information Design",
+        "role": "Data Automation Engineer",
+        "dateRange": "2025 – Aktuell",
+        "location": "Remote",
+        "outcomes": [
+          "Aufbau von Automatisierungspipelines zum Extrahieren und Normalisieren unstrukturierter Webdaten.",
+          "Entwurf wiederverwendbarer Scraping-Workflows mit Fehlerbehandlung und Wiederholungsversuchen.",
+          "Bereitstellung strukturierter Datensätze für interne Verarbeitung und Analyse."
+        ],
+        "tech": ["Node.js", "Python", "Web Scraping", "Automation"]
+      },
+      {
+        "company": "Unabhängige Kundenprojekte",
+        "role": "Full-Stack Developer",
+        "dateRange": "2024 – 2025",
+        "location": "Remote",
+        "outcomes": [
+          "Bereitstellung kundenorientierter Websites mit Fokus auf UX, Performance und Klarheit.",
+          "Aufbau von Plattformen für Beauty-, Gastronomie-, Fitness- und Immobilienunternehmen.",
+          "Abwicklung von Projekten von A bis Z: Konzept, Implementierung und Iteration."
+        ],
+        "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS"]
+      },
+      {
+        "company": "Software Engineering Intern — Odoo & Python",
+        "role": "Software Engineering Intern",
+        "dateRange": "Jan 2023 – Mai 2023 · Praktikum",
+        "location": "Vor Ort",
+        "outcomes": [
+          "Entwicklung eines benutzerdefinierten Odoo ERP-Moduls für ein Fitnessstudio.",
+          "Implementierung der Kern-Geschäftslogik mit Python.",
+          "Praktische Erfahrung mit Backend-Systemen und realen Anforderungen gesammelt."
+        ],
+        "tech": ["Python", "Odoo", "ERP Systems"]
+      },
+      {
+        "company": "Webentwicklung Praktikum",
+        "role": "Junior Web Developer (Praktikum)",
+        "dateRange": "2022",
+        "location": "Vor Ort",
+        "outcomes": [
+          "Erstellung und Wartung von WordPress-Seiten für Kleinunternehmen.",
+          "Implementierung von Layouts und Komponenten mit HTML, CSS und JavaScript.",
+          "Arbeit an responsivem Design, Inhaltsaktualisierungen und grundlegenden Optimierungen."
+        ],
+        "tech": ["WordPress", "HTML", "CSS", "JavaScript"]
+      }
+    ]
+  },
   "About": {
     "sectionTitle": "Über Mich"
   },

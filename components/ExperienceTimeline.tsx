@@ -6,6 +6,7 @@ interface ExperienceItem {
     company: string;
     dateRange: string;
     role: string;
+    location: string;
     outcomes: string[];
     tech: string[];
 }
@@ -40,9 +41,14 @@ export const ExperienceTimeline = ({ items }: ExperienceTimelineProps) => {
                                             </h3>
                                             <p className="text-emerald-400 font-mono text-sm">{item.role}</p>
                                         </div>
-                                        <span className="text-xs font-mono text-neutral-500 uppercase tracking-wider lg:text-right">
-                                            {item.dateRange}
-                                        </span>
+                                        <div className="flex flex-col lg:items-end">
+                                            <span className="text-xs font-mono text-neutral-500 uppercase tracking-wider">
+                                                {item.dateRange}
+                                            </span>
+                                            <span className="text-xs font-mono text-neutral-400 mt-1">
+                                                {item.location}
+                                            </span>
+                                        </div>
                                     </div>
 
                                     {/* Outcomes */}
