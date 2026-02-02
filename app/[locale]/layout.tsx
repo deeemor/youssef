@@ -5,7 +5,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { SmoothScroll } from "@/components/SmoothScroll";
 import { Analytics } from "@vercel/analytics/next"
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
@@ -45,6 +45,7 @@ export default async function LocaleLayout({
           <SmoothScroll>
             {children}
                       <Analytics/>
+        <SpeedInsights />
 
           </SmoothScroll>
         </NextIntlClientProvider>
